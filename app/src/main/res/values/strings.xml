@@ -1,0 +1,151 @@
+<resources>
+    <string name="app_name">MohaProject</string>
+
+    <string-array name="divisions">
+        <item>Select Division</item>
+        <item>Ampara-Sammanthurai</item>
+        <item>Ampara-Addalaichenai</item>
+        <item>Ampara-Nintavur</item>
+        <item>Ampara-Damana</item>
+        <item>Ampara-Alaiyadivembu</item>
+        <item>Ampara-Lahugala</item>
+        <item>Ampara-Irakkamam</item>
+        <item>Ampara-Saindamarudu</item>
+        <item>Ampara-Padiyathalawa</item>
+        <item>Ampara-Karaitivu</item>
+        <item>Ampara-Kalmunai South</item>
+        <item>Ampara-Dehiaththa kandiya</item>
+        <item>Ampara-Akkaraipattu</item>
+        <item>Ampara-Navithanveli</item>
+        <item>Ampara-Uhana</item>
+        <item>Ampara-Mahaoya</item>
+        <item>Ampara-Ampara</item>
+        <item>Ampara-Kalmunai North</item>
+        <item>Ampara-Pothuwil</item>
+        <item>Ampara-Thirukkowil</item>
+        <item>Anuradhapura-Rambewa</item>
+        <item>Anuradhapura-Galenbindunuwewa</item>
+        <item>Anuradhapura-Nuwaragam Palatha Central</item>
+        <item>Anuradhapura-Nochchiyagama</item>
+        <item>Anuradhapura-Horowpothana</item>
+        <item>Anuradhapura-Rajanganaya</item>
+        <item>Anuradhapura-Nuwaragam Palatha East</item>
+        <item>Anuradhapura-Nachchaduwa</item>
+        <item>Anuradhapura-Thambutthegama</item>
+        <item>Anuradhapura-Kekirawa</item>
+        <item>Anuradhapura-Medawachchiya</item>
+        <item>Anuradhapura-Mahawilachchiya</item>
+        <item>Anuradhapura-Mihinthale</item>
+        <item>Anuradhapura-Ipalogama</item>
+        <item>Anuradhapura-Thirappane</item>
+        <item>Anuradhapura-Kahatagasdigiliya</item>
+        <item>Anuradhapura-Thalawa</item>
+        <item>Anuradhapura-Kebithigollewa</item>
+        <item>Anuradhapura-Galnewa</item>
+        <item>Anuradhapura-Padaviya</item>
+        <item>Anuradhapura-Palagala</item>
+        <item>Anuradhapura-Palugaswewa</item>
+        <item>Badulla-Badulla</item>
+        <item>Badulla-Kandaketiya</item>
+        <item>Badulla-Bandarawela</item>
+        <item>Badulla-Haputale</item>
+        <item>Badulla-Soranathota</item>
+        <item>Badulla-Meegahakiula</item>
+        <item>Badulla-Rideemaliyadda</item>
+        <item>Badulla-Passara</item>
+        <item>Badulla-Lunugala</item>
+        <item>Badulla-Ella</item>
+        <item>Badulla-Welimada</item>
+        <item>Badulla-Uva Paranagama</item>
+        <item>Badulla-Haliela</item>
+        <item>Badulla-Haldunmulla</item>
+        <item>Badulla-Mahiyanganaya</item>
+        <item>Batticaloa-Manmunai South (Kalwanchikudi)</item>
+        <item>Batticaloa-Koralaipattu West (Oddamavadi)</item>
+        <item>Batticaloa-Koralaipattu South (Kiran)</item>
+        <item>Batticaloa-Manmunaipattu</item>
+        <item>Batticaloa-Eravurpattu (Chenkalady)</item>
+        <item>Batticaloa-Manmunai North (Batticaloa)</item>
+        <item>Batticaloa-Manmunai South West (Paddippalai)</item>
+        <item>Batticaloa-Kaththankudy</item>
+        <item>Batticaloa-Manmunai West (Vavunativu)</item>
+        <item>Batticaloa-Porativu Pattu (Vellavely)</item>
+        <item>Batticaloa-Koralaipattu Central</item>
+        <item>Batticaloa-Koralaipattu North (Vakarai)</item>
+        <item>Batticaloa-Koralaipattu (Valaichenai)</item>
+        <item>Batticaloa-Eravur Town</item>
+        <item>Colombo-Maharagama</item>
+        <item>Colombo-Thimbirigasyaya</item>
+        <item>Colombo-Kesbewa</item>
+        <item>Colombo-Sri Jayewadenepura Kotte</item>
+        <item>Colombo-Colombo</item>
+        <item>Colombo-Padukka</item>
+        <item>Colombo-Ratmalana</item>
+        <item>Colombo-Homagama</item>
+        <item>Colombo-Kolonnawa</item>
+        <item>Colombo-Kaduwela</item>
+        <item>Colombo-Seethawaka-Hanwella</item>
+        <item>Colombo-Dehiwala</item>
+        <item>Colombo-Moratuwa</item>
+        <item>Galle-Balapitiya</item>
+        <item>Galle-Thawalama</item>
+        <item>Galle-Yakkalamulla</item>
+        <item>Galle-Akmeemana</item>
+        <item>Galle-Elpitiya</item>
+        <item>Galle-Ambalangoda</item>
+        <item>Galle-Karandeniya</item>
+        <item>Galle-Nagoda</item>
+        <item>Galle-Galle - Fore Gravets</item>
+        <item>Galle-Bope-Poddala</item>
+        <item>Galle-Habaraduwa</item>
+        <item>Galle-Baddegama</item>
+        <item>Galle-Hikkaduwa</item>
+        <item>Galle-Gonapinuwala</item>
+        <item>Galle-Valivitiya-Divithura</item>
+        <item>Galle-Bentota</item>
+        <item>Galle-Niyagama</item>
+        <item>Galle-Imaduwa</item>
+        <item>Galle-Neluwa</item>
+        <item>Gampaha-Gampaha</item>
+        <item>Gampaha-Attanagalla</item>
+        <item>Gampaha-Biyagama</item>
+        <item>Gampaha-Divulapitiya</item>
+        <item>Gampaha-Negombo</item>
+        <item>Gampaha-Dompe/Weke/Kirindiwala</item>
+        <item>Gampaha-Katana</item>
+        <item>Gampaha-Wattala</item>
+        <item>Gampaha-Kelaniya</item>
+        <item>Gampaha-Ja-Ela</item>
+        <item>Gampaha-Mirigama</item>
+        <item>Gampaha-Minuwangoda</item>
+        <item>Gampaha-Mahara - Kadawatha</item>
+        <item>Hambantota-Beliatta</item>
+        <item>Hambantota-Hambantota</item>
+        <item>Hambantota-Tangalle</item>
+        <item>Hambantota-Walasmulla</item>
+        <item>Hambantota-Weeraketiya</item>
+        <item>Hambantota-Lunugamwehera</item>
+        <item>Hambantota-Okewela</item>
+        <item>Hambantota-Angunakolapelessa</item>
+        <item>Hambantota-Katuwana</item>
+        <item>Hambantota-Sooriyawewa</item>
+        <item>Hambantota-Tissamaharamaya</item>
+        <item>Hambantota-Ambalantota</item>
+        <item>Jaffna-Karainagar</item>
+        <item>Jaffna-Valikamam south-west (Sandilipay)</item>
+        <item>Jaffna-Valikamam West (Chankanai)</item>
+        <item>Jaffna-Valikamam South (Uduvil)</item>
+        <item>Jaffna-Valikamam North (Tellipalai)</item>
+        <item>Jaffna-Valikamam East (Kopay)</item>
+        <item>Jaffna-Nallur</item>
+        <item>Jaffna-Thenmaradchi (Chavakachcheri)</item>
+        <item>Jaffna-Wadamarachchi North (PointPedro)</item>
+        <item>Jaffna-Wadamarachchi East (Maruthankerny)</item>
+        <item>Jaffna-Wadamarachchi south-west (Karaveddy)</item>
+        <item>Jaffna-Jaffna</item>
+        <item>Jaffna-Island North (Kayts)</item>
+        <item>Jaffna-Island South (Velanai)</item>
+        <item>Jaffna-Delft</item>
+
+    </string-array>
+</resources>
