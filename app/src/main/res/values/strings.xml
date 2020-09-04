@@ -2,7 +2,7 @@
     <string name="app_name">MohaProject</string>
 
     <string-array name="divisions">
-        <item>Select Division</item>
+        <item>--Select Division--</item>
         <item>Ampara-Sammanthurai</item>
         <item>Ampara-Addalaichenai</item>
         <item>Ampara-Nintavur</item>
