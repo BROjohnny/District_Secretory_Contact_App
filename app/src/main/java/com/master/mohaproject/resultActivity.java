@@ -132,25 +132,7 @@ public class resultActivity extends AppCompatActivity {
             }
         });
 
-//        String div = getIntent().getStringExtra("key");
-//        diviView.setText(div);
-//        secnumView.setText("0112052117");
-//        assistnumView.setText("0703883535");
-//        faxView.setText("0714902714");
-//        emailView.setText("johnnyluther96@gmail.com");
-        //get array
         jasonParse();
-        //end copy
-
-//        String div = getIntent().getStringExtra("key");
-//        Toast.makeText(getApplicationContext(), div ,Toast.LENGTH_SHORT).show(); //toast division only for temporary
-
-//        StringBuilder builder = new StringBuilder();
-//        for (String value : detailList) {
-//            builder.append(value);
-//        }
-//        String text = builder.toString();
-//        textView.setText(String.valueOf(text));
 
     }
 
